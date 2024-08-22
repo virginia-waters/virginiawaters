@@ -27,4 +27,13 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+
+@font-face {
+  font-family: Menlo;
+  src: url(Menlo-Regular-Full.otf);
+}
+
+div {
+  font-family: Menlo;
+}
 </style>
