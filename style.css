@@ -35,12 +35,15 @@ a:active {
 
 div {
   font-family: Menlo;
+  font-size: 10px;
 }
 body {
  font-family: 'Menlo';
+ font-size: 10px;
 }
 
 p {
  font-family: 'Menlo';
+ font-size: 10px; }
 }
 </style>
