@@ -29,11 +29,18 @@ a:active {
 }
 
 @font-face {
-  font-family: Menlo;
+  font-family: "Menlo";
   src: url(Menlo-Regular-Full.otf);
 }
 
 div {
   font-family: Menlo;
+}
+body {
+ font-family: 'Menlo';
+}
+
+p {
+ font-family: 'Menlo';
 }
 </style>
